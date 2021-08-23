@@ -4,7 +4,7 @@ Create Beer APi for so energy technical test
 Currently tomcat is set to run on port 8081
 
 Base url
-localhost:8080/beerapi/v1
+localhost:8081/beerapi/v1
 
 GetAllBeers
 beerapi/v1/beers
