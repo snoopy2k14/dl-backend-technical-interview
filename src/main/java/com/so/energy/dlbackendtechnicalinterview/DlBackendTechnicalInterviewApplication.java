@@ -1,5 +1,6 @@
 package com.so.energy.dlbackendtechnicalinterview;
 
+import com.google.gson.Gson;
 import com.so.energy.dlbackendtechnicalinterview.entity.Beer;
 import com.so.energy.dlbackendtechnicalinterview.repository.BeerRepository;
 import org.slf4j.Logger;
@@ -9,6 +10,13 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
+import java.io.File;
+import java.io.IOException;
+import java.net.URISyntaxException;
+import java.net.URL;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+
 @SpringBootApplication
 public class DlBackendTechnicalInterviewApplication {
 
@@ -16,24 +24,34 @@ public class DlBackendTechnicalInterviewApplication {
 
 	public static void main(String[] args) {
 
-		System.out.println("In main");
 		SpringApplication.run(DlBackendTechnicalInterviewApplication.class, args);
 	}
 
 	@Bean
-	public CommandLineRunner demoBeerEnquiry(BeerRepository beerRepository){
+	public CommandLineRunner demoBeerEnquiry(BeerRepository beerRepository) throws IOException, URISyntaxException {
 
 		return args -> {
-			beerRepository.save(new Beer("Budwiser","Nice Beer"));
-			beerRepository.save(new Beer("Haywords","Strong Beer"));
-			beerRepository.save(new Beer("Kingfisher","Class Beer"));
-			beerRepository.save(new Beer("Peroni","Different Beer"));
-			beerRepository.save(new Beer("Fosters","Strange Beer"));
+
+			URL resource = getClass().getClassLoader().getResource("so-energy-beers.json");
+			File inputFile;
+			if (resource == null) {
+				throw new IllegalArgumentException("so-energy-beers.json file not found!");
+			} else {
+				// failed if files have whitespaces or special characters
+				inputFile = new File(resource.toURI());
+			}
+
+			String beerInfoJson= new String(Files.readAllBytes(Paths.get(inputFile.toString())));
+			Gson gson = new Gson();
+			BeerInfo[] beerInfoArray = gson.fromJson(beerInfoJson, BeerInfo[].class);
+
+			for(int i=0;i<beerInfoArray.length;i++){
+				beerRepository.save(new Beer(beerInfoArray[i].getBeer_name(),beerInfoArray[i].getBeer_description()));
+			}
 
 			for(Beer beer: beerRepository.findAll()){
 				log.info("The Beer is: " + beer.toString());
 			}
-
 
 		};
 

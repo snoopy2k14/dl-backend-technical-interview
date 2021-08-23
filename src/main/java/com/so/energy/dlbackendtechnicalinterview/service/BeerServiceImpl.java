@@ -38,8 +38,8 @@ public class BeerServiceImpl implements BeerService {
     }
 
     @Override
-    public List<Beer> findByName(String beerName) {
-        return (List<Beer>) beerRepository.findByName(beerName);
+    public List<Beer> findByName(String name) {
+        return (List<Beer>) beerRepository.findByName(name);
     }
 
     @Override

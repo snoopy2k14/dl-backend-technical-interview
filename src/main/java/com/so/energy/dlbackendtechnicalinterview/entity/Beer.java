@@ -7,46 +7,46 @@ public class Beer {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    @Column(name="beer_id")
+    @Column(name="beer_identifier")
     private Long id;
 
     @Column(name="beer_name",nullable = false)
     private String name;
-
+    
     @Column(length=2000)
-    private String description;
+    private String beer_description;
 
     public Beer(){
 
     }
 
-    public Beer(String name, String description) {
+    public Beer(String name, String beer_description) {
         this.name = name;
-        this.description = description;
+        this.beer_description = beer_description;
     }
 
-    public Long getId() {
+    public Long getBeer_identifier() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setBeer_identifier(Long id) {
         this.id = id;
     }
 
-    public String getName() {
+    public String getBeer_name() {
         return name;
     }
 
-    public void setName(String name) {
+    public void setBeer_name(String name) {
         this.name = name;
     }
 
-    public String getDescription() {
-        return description;
+    public String getBeer_description() {
+        return beer_description;
     }
 
-    public void setDescription(String description) {
-        this.description = description;
+    public void setBeer_description(String beer_description) {
+        this.beer_description = beer_description;
     }
 
     @Override
@@ -54,7 +54,7 @@ public class Beer {
         return "Beer{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
-                ", description='" + description + '\'' +
+                ", beer_description='" + beer_description + '\'' +
                 '}';
     }
 }

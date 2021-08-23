@@ -1,0 +1,260 @@
+[
+  {
+    "beer_identifier": 1,
+    "beer_name": "So Energy Supply",
+    "beer_description": "This beer is as green as the energy we supply."
+  },
+  {
+    "beer_identifier": 2,
+    "beer_name": "100% Not beer",
+    "beer_description": "Like the name suggests, this is actually just a cool, refreshing glass of something that vaguely resembles a beer on a warm summer's day."
+  },
+  {
+    "beer_identifier": 3,
+    "beer_name": "Buzz",
+    "beer_description": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once."
+  },
+  {
+    "beer_identifier": 4,
+    "beer_name": "Trashy Blonde",
+    "beer_description": "A titillating, neurotic, peroxide punk of a Pale Ale. Combining attitude, style, substance, and a little bit of low self esteem for good measure; what would your mother say? The seductive lure of the sassy passion fruit hop proves too much to resist. All that is even before we get onto the fact that there are no additives, preservatives, pasteurization or strings attached. All wrapped up with the customary BrewDog bite and imaginative twist."
+  },
+  {
+    "beer_identifier": 5,
+    "beer_name": "Berliner Weisse With Yuzu - B-Sides",
+    "beer_description": "Japanese citrus fruit intensifies the sour nature of this German classic."
+  },
+  {
+    "beer_identifier": 6,
+    "beer_name": "Pilsen Lager",
+    "beer_description": "Our Unleash the Yeast series was an epic experiment into the differences in aroma and flavour provided by switching up your yeast. We brewed up a wort with a light caramel note and some toasty biscuit flavour, and hopped it with Amarillo and Centennial for a citrusy bitterness. Everything else is down to the yeast. Pilsner yeast ferments with no fruity esters or spicy phenols, although it can add a hint of butterscotch."
+  },
+  {
+    "beer_identifier": 7,
+    "beer_name": "Avery Brown Dredge",
+    "beer_description": "An Imperial Pilsner in collaboration with beer writers. Tradition. Homage. Revolution. We wanted to showcase the awesome backbone of the Czech brewing tradition, the noble Saaz hop, and also tip our hats to the modern beers that rock our world, and the people who make them."
+  },
+  {
+    "beer_identifier": 8,
+    "beer_name": "Electric India",
+    "beer_description": "Re-brewed as a spring seasonal, this beer – which appeared originally as an Equity Punk shareholder creation – retains its trademark spicy, fruity edge. A perfect blend of Belgian Saison and US IPA, crushed peppercorns and heather honey are also added to produce a genuinely unique beer."
+  },
+  {
+    "beer_identifier": 9,
+    "beer_name": "AB:12",
+    "beer_description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local."
+  },
+  {
+    "beer_identifier": 10,
+    "beer_name": "Fake Lager",
+    "beer_description": "Fake is the new black. Fake is where it is at. Fake Art, fake brands, fake breasts, and fake lager. We want to play our part in the ugly fallout from the Lager Dream. Say hello to Fake Lager – a zesty, floral 21st century faux masterpiece with added BrewDog bitterness."
+  },
+  {
+    "beer_identifier": 11,
+    "beer_name": "AB:07",
+    "beer_description": "Whisky cask-aged imperial scotch ale. Beer perfect for when the rain is coming sideways. Liquorice, plum and raisin temper the warming alcohol, producing a beer capable of holding back the Scottish chill."
+  },
+  {
+    "beer_identifier": 12,
+    "beer_name": "Bramling X",
+    "beer_description": "Good old Bramling Cross is elegant, refined, assured, (boring) and understated. Understated that is unless you hop the living daylights out of a beer with it. This is Bramling Cross re-invented and re-imagined, and shows just what can be done with English hops if you use enough of them. Poor Bramling Cross normally gets lost in a woeful stream of conformist brown ales made by sleepy cask ale brewers. But not anymore. This beer shows that British hops do have some soul, and is a fruity riot of blackberries, pears, and plums. Reminds me of the bramble, apple and ginger jam my grandmother used to make."
+  },
+  {
+    "beer_identifier": 13,
+    "beer_name": "Misspent Youth",
+    "beer_description": "The brainchild of our small batch brewer, George Woods. A dangerously drinkable milk sugar- infused Scotch Ale."
+  },
+  {
+    "beer_identifier": 14,
+    "beer_name": "Arcade Nation",
+    "beer_description": "Running the knife-edge between an India Pale Ale and a Stout, this particular style is one we truly love. Black IPAs are a great showcase for the skill of our brew team, balancing so many complex and twisting flavours in the same moment. The citrus, mango and pine from the hops – three of our all-time favourites – play off against the roasty dryness from the malt bill at each and every turn."
+  },
+  {
+    "beer_identifier": 15,
+    "beer_name": "AB:12",
+    "beer_description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local."
+  },
+  {
+    "beer_identifier": 16,
+    "beer_name": "Movember",
+    "beer_description": "A deliciously robust, black malted beer with a decadent dark, dry cocoa flavour that provides an enticing backdrop to the Cascade hops."
+  },
+  {
+    "beer_identifier": 17,
+    "beer_name": "Alpha Dog",
+    "beer_description": "A fusion of caramel malt flavours and punchy New Zealand hops. A session beer you can get your teeth into."
+  },
+  {
+    "beer_identifier": 18,
+    "beer_name": "Mixtape 8",
+    "beer_description": "This recipe is for the Belgian Tripel base. A blend of two huge oak aged beers – half a hopped up Belgian Tripel, and half a Triple India Pale Ale. Both aged in single grain whisky barrels for two years and blended, each beer brings its own character to the mix. The Belgian Tripel comes loaded with complex spicy, fruity esters, and punchy citrus hop character."
+  },
+  {
+    "beer_identifier": 19,
+    "beer_name": "Libertine Porter",
+    "beer_description": "An avalanche of cross-continental hop varieties give this porter a complex spicy, resinous and citrusy aroma, with a huge malt bill providing a complex roasty counterpoint. Digging deeper into the flavour draws out cinder toffee, bitter chocolate and hints of woodsmoke."
+  },
+  {
+    "beer_identifier": 20,
+    "beer_name": "AB:06",
+    "beer_description": "Our sixth Abstrakt, this imperial black IPA combined dark malts with a monumental triple dry-hop, using an all-star team of some of our favourite American hops. Roasty and resinous."
+  },
+  {
+    "beer_identifier": 21,
+    "beer_name": "Russian Doll – India Pale Ale",
+    "beer_description": "The levels of hops vary throughout the range. We love hops, so all four beers are big, bitter badasses, but by tweaking the amount of each hop used later in the boil and during dry- hopping, we can balance the malty backbone with some unexpected flavours. Simcoe is used in the whirlpool for all four beers, and yet still lends different characters to each"
+  },
+  {
+    "beer_identifier": 22,
+    "beer_name": "Hello My Name Is Mette-Marit",
+    "beer_description": "We sent this beer to Norway where it was known as 'Hello, my name is Censored’. You can make up your own mind as to why. This brew was a red berry explosion, with a reisnous bitter edge layered with dry berry tartness."
+  },
+  {
+    "beer_identifier": 23,
+    "beer_name": "Rabiator",
+    "beer_description": "Imperial Wheat beer / Weizenbock brewed by a homesick German in leather trousers. Think banana bread, bubble gum and David Hasselhoff."
+  },
+  {
+    "beer_identifier": 24,
+    "beer_name": "AB:12",
+    "beer_description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local."
+  },
+  {
+    "beer_identifier": 25,
+    "beer_name": "AB:12",
+    "beer_description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local."
+  },
+  {
+    "beer_identifier": 26,
+    "beer_name": "AB:12",
+    "beer_description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local."
+  },
+  {
+    "beer_identifier": 27,
+    "beer_name": "AB:12",
+    "beer_description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local."
+  },
+  {
+    "beer_identifier": 28,
+    "beer_name": "AB:12",
+    "beer_description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local."
+  },
+  {
+    "beer_identifier": 29,
+    "beer_name": "AB:12",
+    "beer_description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local."
+  },
+  {
+    "beer_identifier": 30,
+    "beer_name": "AB:12",
+    "beer_description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local."
+  },
+  {
+    "beer_identifier": 31,
+    "beer_name": "AB:12",
+    "beer_description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local."
+  },
+  {
+    "beer_identifier": 32,
+    "beer_name": "AB:12",
+    "beer_description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local."
+  },
+  {
+    "beer_identifier": 33,
+    "beer_name": "AB:12",
+    "beer_description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local."
+  },
+  {
+    "beer_identifier": 34,
+    "beer_name": "AB:12",
+    "beer_description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local."
+  },
+  {
+    "beer_identifier": 35,
+    "beer_name": "Berliner Weisse With Raspberries And Rhubarb - B-Sides",
+    "beer_description": "Tart, dry and acidic with a punch of summer berry as rhubarb crumble."
+  },
+  {
+    "beer_identifier": 36,
+    "beer_name": "Shipwrecker Circus (w/ Oskar Blues)",
+    "beer_description": "In collaboration with the awesome Oskar Blues from Colorado, we created this big, twisted 10.5% American style barley wine. Big boozy aromas and a sweet viscosity, packed in with some heavy-hitting C-hops, for an intense bitterness to balance this full-bodied malt monster."
+  },
+  {
+    "beer_identifier": 37,
+    "beer_name": "Zephyr",
+    "beer_description": "A 9.2% Double IPA aged for 21 months in a 1965 Invergordon cask with 30 kg of fresh highland strawberries. This beer is a riot of whisky, caramel and strawberry, all tempered by a toe curling bitterness enducing rapture in all who taste it. Who needs champagne?"
+  },
+  {
+    "beer_identifier": 38,
+    "beer_name": "Belgian Trappist",
+    "beer_description": "Our Unleash the Yeast series was an epic experiment into the differences in aroma and flavour provided by switching up your yeast. We brewed up a wort with a light caramel note and some toasty biscuit flavour, and hopped it with Amarillo and Centennial for a citrusy bitterness. Everything else is down to the yeast. Abbey style yeasts add distinctive spicy and fruity notes, and dry out the finished beer."
+  },
+  {
+    "beer_identifier": 39,
+    "beer_name": "Kohatu - IPA Is Dead",
+    "beer_description": "As you’d expect from a New Zealand hop variety, Kohatu contributes bags of tropical fruit, but with loads of lime notes, & pineapple hits. Seriously fruity, with sweet, juicy melon and stonefruit notes."
+  },
+  {
+    "beer_identifier": 40,
+    "beer_name": "Hello My Name is Vladimir",
+    "beer_description": "A Limonnik-infused, triple dry- hopped double IPA. Dry berry tartness and intense citrus hop character meld with a dry bready malt base, boosted by a hint of alcohol warmth. This beer was brewed as a protest against the anti-LGBT legislation in Russia surrounding the Sochi Olympics."
+  },
+  {
+    "beer_identifier": 41,
+    "beer_name": "AB:17",
+    "beer_description": "A triple whammy of coffee from HasBean gives our 17th Abstrakt concept beer an intense and roasty, dark mocha character. We brewed with espresso in the mash, cafetiere in the boil, and whole roast beans in the whirlpool and the fermenter."
+  },
+  {
+    "beer_identifier": 42,
+    "beer_name": "Hardcore IPA",
+    "beer_description": "Pounding a triple payload of the biggest North American hops humanity has devised, braced by a backbone of caramel malt, this beer is deep, astringent and resinous, pushing to the extremes of lupulin thresholds. There’s nothing inscrutable going on; no mystery in the backstory. It doesn’t seek to be understood. A beer incapable of empathy; only hop overload."
+  },
+  {
+    "beer_identifier": 43,
+    "beer_name": "American Wheat",
+    "beer_description": "A luscious blend of peach, blood orange and banana to make a suitably refreshing beverage that happily straddles the Atlantic."
+  },
+  {
+    "beer_identifier": 44,
+    "beer_name": "Dog Wired (w/8 Wired)",
+    "beer_description": "Brewed in collaboration with Soren from New Zealand’s stellar 8-Wired brewery, this is an Imperial Pilsner featuring two of our favourite New Zealand hops: Nelson Sauvin and Motueka. Sitting at a dangerously drinkable 7.1% ABV there’s a touch of Munich malt which gives this beer that little extra caramel biscuit bite to compliment the lip smackingly tropical hops. Expect an all out NZ hoppy riot."
+  },
+  {
+    "beer_identifier": 45,
+    "beer_name": "The Physics",
+    "beer_description": "A hoppy Amber Ale that won World's Best Amber Beer in the World Beer Awards 2007. Malt and hops are in perfect harmony in this incredibly balanced beer. Biscuity, bitter and packing a surprisingly hoppy punch, this beer ultimately morphed into 5AM Saint."
+  },
+  {
+    "beer_identifier": 46,
+    "beer_name": "Anarchist Alchemist",
+    "beer_description": "About as far as you can push an IPA; Anarchist Alchemist packs in three times the malt and three of our favourite hops. Nelson Sauvin, Amarillo and Centennial bring a range of flavours, touching on tropical fruit, white grape, tangerine, grapefruit, pine, spiced orange... the list goes on!"
+  },
+  {
+    "beer_identifier": 47,
+    "beer_name": "Salted Caramel Popcorn Strong Ale.",
+    "beer_description": "A salted caramel popcorn Imperial Ale. Bourbon and Rum barrel aged, this 12.8% ale has complex and twisting flavours. Bitter caramel, wood, smoke, spice, treacle and vanilla are all present and intertwine against a smooth and lightly chewy mouthfeel. The salted caramel popcorn lends subtle hints of a smoky brininess."
+  },
+  {
+    "beer_identifier": 48,
+    "beer_name": "Goldings - IPA Is Dead",
+    "beer_description": "This is East Kent Goldings re- invented and re-imagined and shows just what can be done with English hops if you use enough of them. In this amped up Goldings reincarnation expect to be slammed with floral lavender, a fruity riot of blackberries and spiced pears, bubblegum, plums and the illusion of thyme."
+  },
+  {
+    "beer_identifier": 49,
+    "beer_name": "AB:14",
+    "beer_description": "Think banoffee pie; loads of creamy sweet banana, and sticky warm toffee. This beer is super complex, and one for the sweet-toothed!"
+  },
+  {
+    "beer_identifier": 50,
+    "beer_name": "Lost Dog (w/Lost Abbey)",
+    "beer_description": "Our first beer aged in rum casks, Lost Dog saw us brew a collaboration imperial porter with our friends at Lost Abbey. The base beer was packed with toffee, chocolate and roasty notes, balanced with a subtle spicy hop character. The rum casks add a warming, spiced vanilla edge."
+  }
+
+
+
+
+
+
+
+
+]
