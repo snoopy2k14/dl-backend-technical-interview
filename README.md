@@ -18,5 +18,5 @@ beerapi/v1/beer/{name}
 To Create a Beer
 beerapi/v1/create
 
-To Get a random beer 
+To Get a random beer (Currently there are 50 beers added, so random only works upto 50)
 beerapi/v1/beer/random
